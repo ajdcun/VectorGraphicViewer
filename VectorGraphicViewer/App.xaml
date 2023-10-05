@@ -1,0 +1,24 @@
+﻿<Application x:Class="VectorGraphicViewer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:viewmodels="clr-namespace:VectorGraphicViewer.MVVM.ViewModel"
+             xmlns:views="clr-namespace:VectorGraphicViewer.MVVM.View">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <DataTemplate DataType="{x:Type viewmodels:LineViewModel}">
+                <views:LineView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewmodels:CircleViewModel}">
+                <views:CircleView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewmodels:TriangleViewModel}">
+                <views:TriangleView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>
