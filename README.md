@@ -1,12 +1,12 @@
 <a id="readme-top"></a>
+
 <h3 align="center">Vector Graphic Viewer</h3>
+<p align="center"> Load and show graphics from CAD files (example app) </p>
 
 <!-- TECH STACK -->
 ## Tech Stack
 [![Csharp][Csharp-Shield]][Csharp-Url]
-
 [![dotNET][dotNET-Shield]][dotNET-Url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
