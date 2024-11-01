@@ -1,23 +1,24 @@
-<a id="readme-top"></a>
-
 <h3 align="center">Vector Graphic Viewer</h3>
 <p align="center"> Load and show graphics from CAD files (example app) </p>
+
+<!-- DESCRIPTION -->
+## Description
+- Designing a Windows application for displaying vector graphics
+- Support for multiple rendering and loading JSON data
+- Using dependencies and design patterns
 
 <!-- TECH STACK -->
 ## Tech Stack
 [![Csharp][Csharp-Shield]][Csharp-Url]
 [![dotNET][dotNET-Shield]][dotNET-Url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 [![License][License-Shield]][License-Url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- VERSION -->
 ## App Version
 ![Version][Version-Shield]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
